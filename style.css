@@ -109,6 +109,10 @@ main{padding:52px 0 16px}
 .contact-block h3{font-family:var(--serif);font-weight:600;margin-bottom:2px}
 .contact-block .role{color:var(--soft);font-size:15px}
 
+/* embedded map */
+.map{max-width:720px;margin:22px auto 0;border-radius:8px;overflow:hidden;border:1px solid var(--line)}
+.map iframe{width:100%;height:380px;border:0;display:block}
+
 /* footer */
 .foot{background:var(--teal);color:var(--band-text);text-align:center;padding:34px 28px;margin-top:24px;font-size:14.5px;line-height:1.7}
 .foot a{color:#fff}
